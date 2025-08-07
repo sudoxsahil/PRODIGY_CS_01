@@ -19,3 +19,9 @@ This Python program implements the **Caesar Cipher**, a classic encryption techn
 
 ## 📸 Output Example
 
+Enter the message: SecretMessage!
+Enter shift value: 4
+
+Encrypted Text: WigvixQiwweki!
+Decrypted Text: SecretMessage!
+
